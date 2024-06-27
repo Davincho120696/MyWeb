@@ -1,2 +1,2 @@
 # MyWeb
-repo tel curso de PreWork en Windows
+Repo del curso de PreWork en Windows
